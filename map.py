@@ -13,7 +13,7 @@ class AdjMatrix:
 
 # 邻接表
 class AdjLink:
-    class edge:
+    class Edge:
         adj_vex = -1
         next = None
 
